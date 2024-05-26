@@ -18,6 +18,7 @@ Grid-Based -- Object-Specific Hue Adjustment:
 ![Adjusted Image](adjusted_image/grid_adjusted_image.png)
 
 ## file structure
+```sh
 artcoloranalyzer/
 ├── artcoloranalyzer/
 │   ├── __init__.py
@@ -28,13 +29,14 @@ artcoloranalyzer/
 │       ├── yolov3.cfg
 │       ├── yolov3.weights
 │       └── coco.names
-├── example_image
-│       ├── 00_kaiga.JPG
-│       ├── breakfast.png
+├── example_image/
+│   ├── 00_kaiga.JPG
+│   ├── breakfast.png
 ├── example.py
 ├── README.md
 ├── YOLOv3_LICENSE
 └── LICENSE
+```
 
 - please Download this file and place it under yolov3 as in the structure above
 
