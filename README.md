@@ -38,7 +38,7 @@ artcoloranalyzer/
 └── LICENSE
 ```
 
-- please Download this file and place it under yolov3 as in the structure above
+- please Download ```sh　yolov3.weights``` and place it under yolov3 as in the structure above
 
 ...
 
